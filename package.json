@@ -1,6 +1,6 @@
 {
   "name": "kc-fmtnum",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "[js] Format number.",
   "main": "index.js",
   "repository": {
